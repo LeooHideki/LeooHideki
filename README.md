@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**LeooHideki/LeooHideki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### seja bem vindo 👋
+##Leonardo Hideki
 
-Here are some ideas to get you started:
+- 🔭 Estudante de programação FullStack e tecnologia
+- 🌱 Maior afinidade com Java
+- 👦 22 anos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+< div  style = "display: inline_block; margin:5px!important;" > <br> _
+  < img  align = "center"  alt = ""  height = "30"  width = "40"  src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg " >
+  < img  align = "center"  alt = ""  height = "30"  largura = "40"  src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg " >
+  < img  align = "center"  alt = ""  height = "30"  largura = "40"  src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg ">
+  < img  align = "center"  alt = ""  height = "30"  largura = "40"  src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg " >
+  < img  align = "center"  alt = ""  height = "30"  width = "40"  src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg ">
+  < img  align = "center"  alt = ""  height = "30"  width = "40"  src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg ">
+  < img  align = "center"  alt = ""  height = "30"  width = "40"  src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg " >
+  < img  align = "center"  alt = ""  height = "30"  width = "40"  src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  < img  align = "center"  alt = ""  height = "30"  width = "40"  src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg " >
+  < img  align = "center"  alt = ""  height = "30"  width = "40"  src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg " >
+  < img  align = "center"  alt = ""  height = "30"  width = "40"  src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg " >
+  
+</ div >
+
+#
+< div >
+< a  href = " https://github.com/LeooHideki " >
+< img  height = "180em"  src = " https://github-readme-stats.vercel.app/api/top-langs/?username=LeooHideki&layout=compact&langs_count=7&theme=dracula" / >
+< img  height = "180em"  src = " https://github-readme-stats.vercel.app/api?username=LeooHideki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" / >
+</ div >
+< div  style = "display:flex;align-items:center;justify- content:center ;" >
+< a  href = " https://www.instagram.com/leoo_hidekii/ "  target = "_blank" >< img  src = " https://img.shields.io/badge/-Instagram-%23E4405F?style =for-the-badge&logo=instagram&logoColor=white "  target = "_blank" ></ a >
+< img  src = " https://img.shields.io/badge/- LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white "  target = "_blank" ></ a >   
+</ div >
+
+![Animação de cobra](https://github.com/EduPrad0/EduPrad0/blob/output/github-contribution-grid-snake.svg)
+
